@@ -1,0 +1,92 @@
+D:\tu hoc\sinhvien\sinhvien\sinhvien\bin\Debug\sinhvien.exe.config
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.csprojResolveAssemblyReference.cache
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.Properties.Resources.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.csproj.GenerateResource.Cache
+D:\tu hoc\sinhvien\sinhvien\sinhvien\bin\Debug\sinhvien.exe
+D:\tu hoc\sinhvien\sinhvien\sinhvien\bin\Debug\sinhvien.pdb
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fdangnhap.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fmain.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.exe
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.pdb
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.ftrogiup.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fdoimatkhau.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fquanlynguoidung.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fmonhoc.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fkhoa.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.flop.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fquanlysinhvien.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fgiangvien.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fquanlydiemsv.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fdiemtongketsv.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fdssv.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fhoclai.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.ftimkiemsinhvien.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\bin\Debug\AForge.Video.DirectShow.dll
+D:\tu hoc\sinhvien\sinhvien\sinhvien\bin\Debug\AForge.Video.dll
+D:\tu hoc\sinhvien\sinhvien\sinhvien\bin\Debug\AForge.dll
+D:\tu hoc\sinhvien\sinhvien\sinhvien\bin\Debug\AForge.Video.xml
+D:\tu hoc\sinhvien\sinhvien\sinhvien\bin\Debug\AForge.Video.DirectShow.xml
+D:\tu hoc\sinhvien\sinhvien\sinhvien\bin\Debug\AForge.xml
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fchuphinh.resources
+D:\tu hoc\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fchaygiaodien.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\bin\Debug\sinhvien.exe.config
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.exe
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.pdb
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\bin\Debug\sinhvien.exe
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\bin\Debug\sinhvien.pdb
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fdangnhap.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fchaygiaodien.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fchuphinh.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.ftimkiemsinhvien.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fdiemtongketsv.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fdoimatkhau.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fdssv.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fgiangvien.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fhoclai.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fkhoa.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.flop.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fmonhoc.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fmain.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fquanlydiemsv.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fquanlynguoidung.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.fquanlysinhvien.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.Properties.Resources.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.ftrogiup.resources
+C:\Users\Admin\Desktop\sinhvien\sinhvien\sinhvien\obj\Debug\sinhvien.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\bin\Debug\sinhvien.exe.config
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.exe
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.pdb
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\bin\Debug\sinhvien.exe
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\bin\Debug\sinhvien.pdb
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fdangnhap.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fchaygiaodien.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fchuphinh.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.ftimkiemsinhvien.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fdiemtongketsv.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fdoimatkhau.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fdssv.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fgiangvien.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fhoclai.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fkhoa.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.flop.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fmonhoc.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fmain.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fquanlydiemsv.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fquanlynguoidung.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.fquanlysinhvien.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.Properties.Resources.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.ftrogiup.resources
+C:\Users\Admin\Desktop\sinhvien1\sinhvien\sinhvien\obj\Debug\sinhvien.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\de an giua ky winform\sinhvien\sinhvien\bin\Debug\sinhvien.exe.config
+C:\Users\Admin\Desktop\de an giua ky winform\sinhvien\sinhvien\obj\Debug\sinhvien.exe
+C:\Users\Admin\Desktop\de an giua ky winform\sinhvien\sinhvien\obj\Debug\sinhvien.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="sinhvien" Class="MydbcontextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLSERVER2008;Initial Catalog=sinhvien;Integrated Security=True" SettingsObjectName="sinhvien.Properties.Settings" SettingsPropertyName="sinhvienConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.anhdaidien_giangvien" Member="anhdaidien_giangviens">
+    <Type Name="anhdaidien_giangvien">
+      <Column Name="magiangvien" Type="System.String" DbType="NChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="anhdaidien" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+</Database>

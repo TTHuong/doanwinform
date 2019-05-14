@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2FBB53EF-A1C4-4917-8210-E4F8EBB5808A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>sinhvien</RootNamespace>
+    <AssemblyName>sinhvien</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>..\..\..\THƯ VIỆN C#\Release\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>..\..\..\THƯ VIỆN C#\Release\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cketnoi.cs" />
+    <Compile Include="dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dangnhap.Designer.cs">
+      <DependentUpon>dangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fchaygiaodien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fchaygiaodien.Designer.cs">
+      <DependentUpon>fchaygiaodien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fchuphinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fchuphinh.Designer.cs">
+      <DependentUpon>fchuphinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ftimkiemsinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ftimkiemsinhvien.Designer.cs">
+      <DependentUpon>ftimkiemsinhvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fdiemtongketsv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fdiemtongketsv.Designer.cs">
+      <DependentUpon>fdiemtongketsv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fdoimatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fdoimatkhau.Designer.cs">
+      <DependentUpon>fdoimatkhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fdssv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fdssv.Designer.cs">
+      <DependentUpon>fdssv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fgiangvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fgiangvien.Designer.cs">
+      <DependentUpon>fgiangvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fhoclai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fhoclai.Designer.cs">
+      <DependentUpon>fhoclai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fkhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fkhoa.Designer.cs">
+      <DependentUpon>fkhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="flop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="flop.Designer.cs">
+      <DependentUpon>flop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmonhoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmonhoc.Designer.cs">
+      <DependentUpon>fmonhoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fquanlydiemsv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fquanlydiemsv.Designer.cs">
+      <DependentUpon>fquanlydiemsv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fquanlynguoidung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fquanlynguoidung.Designer.cs">
+      <DependentUpon>fquanlynguoidung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fquanlysinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fquanlysinhvien.Designer.cs">
+      <DependentUpon>fquanlysinhvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mydbcontext.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Mydbcontext.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="trogiup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trogiup.Designer.cs">
+      <DependentUpon>trogiup.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="dangnhap.resx">
+      <DependentUpon>dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fchaygiaodien.resx">
+      <DependentUpon>fchaygiaodien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fchuphinh.resx">
+      <DependentUpon>fchuphinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ftimkiemsinhvien.resx">
+      <DependentUpon>ftimkiemsinhvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fdiemtongketsv.resx">
+      <DependentUpon>fdiemtongketsv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fdoimatkhau.resx">
+      <DependentUpon>fdoimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fdssv.resx">
+      <DependentUpon>fdssv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fgiangvien.resx">
+      <DependentUpon>fgiangvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fhoclai.resx">
+      <DependentUpon>fhoclai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fkhoa.resx">
+      <DependentUpon>fkhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="flop.resx">
+      <DependentUpon>flop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmonhoc.resx">
+      <DependentUpon>fmonhoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fquanlydiemsv.resx">
+      <DependentUpon>fquanlydiemsv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fquanlynguoidung.resx">
+      <DependentUpon>fquanlynguoidung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fquanlysinhvien.resx">
+      <DependentUpon>fquanlysinhvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Mydbcontext.dbml.layout">
+      <DependentUpon>Mydbcontext.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trogiup.resx">
+      <DependentUpon>trogiup.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Mydbcontext.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>Mydbcontext.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tdmu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\1.png" />
+    <Content Include="Resources\10.ico" />
+    <Content Include="Resources\13.png" />
+    <Content Include="Resources\14.png" />
+    <Content Include="Resources\15.png" />
+    <Content Include="Resources\16.png" />
+    <Content Include="Resources\3.png" />
+    <Content Include="Resources\5.png" />
+    <Content Include="Resources\6.png" />
+    <Content Include="Resources\7.png" />
+    <Content Include="Resources\8.png" />
+    <Content Include="Resources\9.png" />
+    <Content Include="Resources\andanh.jpg" />
+    <Content Include="Resources\anform.png" />
+    <Content Include="Resources\anh.png" />
+    <Content Include="Resources\bieudo.png" />
+    <Content Include="Resources\books.png" />
+    <Content Include="Resources\camera.png" />
+    <Content Include="Resources\cancel.png" />
+    <Content Include="Resources\class.png" />
+    <Content Include="Resources\color.png" />
+    <Content Include="Resources\dan.png" />
+    <Content Include="Resources\dau.png" />
+    <Content Include="Resources\diemmonhoc.png" />
+    <Content Include="Resources\font.png" />
+    <Content Include="Resources\gmail.png" />
+    <Content Include="Resources\help.png" />
+    <Content Include="Resources\hocsisnh.png" />
+    <Content Include="Resources\hoi.png" />
+    <Content Include="Resources\icon.ico" />
+    <Content Include="Resources\khoa.png" />
+    <Content Include="Resources\list.png" />
+    <Content Include="Resources\logo.png" />
+    <Content Include="Resources\mao.png" />
+    <Content Include="Resources\more.png" />
+    <Content Include="Resources\mui.png" />
+    <Content Include="Resources\ngo.png" />
+    <Content Include="Resources\password.png" />
+    <Content Include="Resources\quanli.png" />
+    <Content Include="Resources\rac.png" />
+    <Content Include="Resources\save.png" />
+    <Content Include="Resources\start.png" />
+    <Content Include="Resources\stop.png" />
+    <Content Include="Resources\suu.png" />
+    <Content Include="Resources\system.png" />
+    <Content Include="Resources\user name.png" />
+    <Content Include="Resources\vuilongnhaptendangnhap.png" />
+    <Content Include="Resources\xuat.png" />
+    <Content Include="Resources\yes.png" />
+    <None Include="Resources\tdmu1.jpg" />
+    <Content Include="Resources\teacher.png" />
+    <Content Include="Resources\than.png" />
+    <Content Include="Resources\thin.png" />
+    <Content Include="Resources\ti.png" />
+    <Content Include="Resources\timkiem.png" />
+    <Content Include="Resources\tuat.png" />
+    <Content Include="Resources\ty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
